@@ -1,5 +1,5 @@
 # Pokemon Teams!
-
+ 
 Here you're going to help us keep track of Pokemon
 trainers at Flatiron School. Through their journey,
 **a Pokemon trainer can only have 6 Pokemon for their
@@ -35,7 +35,7 @@ A Pokemon Card can be placed within the `<main>` tags.
 ```
 
 ## API
-We are going to be using a Rails backend to support our requests. In order to have this working, 
+We are going to be using a Rails backend to support our requests. In order to have this working,
 you want to make sure you go to your Terminal and run the following code below:
 
     $ cd pokemon-teams-backend # Change into the directory
